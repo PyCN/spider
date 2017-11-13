@@ -20,7 +20,7 @@ spider是业余时间，学习Python爬虫的例子。
   * restkit – Python的HTTP资源工具包。它可以让你轻松地访问HTTP资源，并围绕它建立的对象。
   * demiurge – 基于PyQuery的爬虫微框架。
   
-*  [学习案例](#Python爬虫学习案例)
+* [学习案例](#Python爬虫学习案例)
   * 本学习案例仅支持Python3.x；
   * basic - 使用requests库爬取新浪股票、全国省市编码；
   * http_lagou - 使用来requests库爬取拉勾网职位信息；
