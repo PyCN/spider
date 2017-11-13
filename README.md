@@ -29,5 +29,5 @@ spider是业余时间，学习Python爬虫的例子。
 
 
 ## 联系我们
-  邮箱：deamoncao100@gmail.com
-  博客：http://note.youdao.com/noteshare?id=077ebf1f14de79d1821778d24e713c1c&sub=BE720E09CE75415781F2788F330052A2
+  * 邮箱：deamoncao100@gmail.com
+  * 博客：http://note.youdao.com/noteshare?id=077ebf1f14de79d1821778d24e713c1c&sub=BE720E09CE75415781F2788F330052A2
